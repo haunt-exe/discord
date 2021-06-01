@@ -267,12 +267,6 @@ textarea,
   white-space: nowrap;
   order: 1;
 }
-.typeWindows-1za-n7 > .wordmark-2iDDfm:before {
-  content: "ClearVision";
-  color: rgba(255, 255, 255, 0.7);
-  font-size: 14px;
-  text-shadow: 0 0 3px #000;
-}
 .typeWindows-1za-n7 > .wordmark-2iDDfm > svg {
   filter: drop-shadow(0 0 5px var(--main-color));
 }
@@ -1213,12 +1207,6 @@ textarea,
   font-size: 11px;
   font-weight: 700;
   transition: all 0.5s ease-in-out;
-}
-.container-3baos1:before {
-  content: "ClearVision";
-  right: 50%;
-  text-align: right;
-  transform: translateX(50%);
 }
 .container-3baos1:hover:before {
   margin-right: 1px;
